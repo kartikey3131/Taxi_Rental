@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareCab</string>
+    <array name="Type">
+        <item>Rider</item>
+        <item>Driver</item>
+    </array>
+</resources>

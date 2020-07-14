@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349648829297",
+    "firebase_url": "https://sharecab-aa473.firebaseio.com",
+    "project_id": "sharecab-aa473",
+    "storage_bucket": "sharecab-aa473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349648829297:android:169f526596be1467c4d4d0",
+        "android_client_info": {
+          "package_name": "com.example.sharecab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349648829297-gipccmp1n69sdj8e6laqlf82s6ejh1u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharecab",
+            "certificate_hash": "2e618ee9a7a6dfb8f5a2736371899bae0773d6be"
+          }
+        },
+        {
+          "client_id": "349648829297-ecr7haoaasbvk1qhjfjtd9vt2631t73t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn4rbvoD9Q5bIotocYn1-JSv6JYNhvgLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349648829297-ecr7haoaasbvk1qhjfjtd9vt2631t73t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
